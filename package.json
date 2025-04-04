@@ -1,0 +1,19 @@
+{
+  "name": "top-restaurant-page",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murray-vm/TOP-restaurant-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murray-vm/TOP-restaurant-page/issues"
+  },
+  "homepage": "https://github.com/Murray-vm/TOP-restaurant-page#readme",
+  "description": ""
+}
